@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PavelSergeevGuess
+- 👋 Hi, I’m Pavel
 - 👀 I’m interested in C#, C++, Unity and UE4 development
 - 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on game development
